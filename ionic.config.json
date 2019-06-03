@@ -1,0 +1,8 @@
+{
+  "name": "asemobile",
+  "app_id": "a555f77b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
